@@ -11,3 +11,6 @@ Advanced JS and DOM Manipulation project for the Complete Web Development Bootca
 - Using Javascript for DOM manipulation and form validation
 - Using Javascript to register keyboard clicks
 
+
+![app](https://github.com/Raaghav-1824/Drum-Kit-Master/blob/main/DumKit.png)
+
